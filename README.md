@@ -1,0 +1,3 @@
+# Chihuahua Revolt
+
+A chihuahua by the name of Mia, found an amazing loving home with Autumn as her new mom.  Autumn realized that chihuahuas are amazing and deserve more rights and live happy lives, so she creates a Chihuahua Revolt, making her the Queen.  While gaining more chihuahua revoltists (revoltist sounds better than revolutionist), Alex finds his way into the revolt, climbing ranks all the way up to sergeant deputy and second-in-command; eventually becoming king!  Alex later decides that keeping track of the revolts history would be a good idea, and decides to use git to do so; also starting to think into the future with their future kid, who will have a placeholder name of, Tammy.  
