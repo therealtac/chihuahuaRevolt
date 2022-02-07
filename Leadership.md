@@ -2,4 +2,4 @@
 
 0. Autumn
 1. Alex
-2. tammy
+2. Tammy
